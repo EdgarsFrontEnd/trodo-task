@@ -15,6 +15,10 @@ DB_PASSWORD=your_password
 ```
 
 ```
+composer install
+```
+
+```
 php artisan migrate
 ```
 
